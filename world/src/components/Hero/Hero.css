@@ -1,0 +1,60 @@
+.hero-main{
+    background: url('../../assets/images/BackgroundSpiderMan1.jpeg') no-repeat top right/cover ;
+    height: 400px;
+    color:var(--color-blue);
+    border-radius: 25px;
+    margin-top: 20px;
+    padding: 100px;   
+    padding-top: 140px;
+    font-family:var(--font-Bungee);
+    
+ 
+}
+.hero-text{
+    max-width: 500px;
+    
+   
+}
+
+.hero-subtitle{
+    font-size: 25px;
+    /* font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    position: absolute;
+    top: 16%;
+    left: 19%;
+    color: var(--color-red);
+    
+}
+.hero-title{
+    font-size: 55px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-weight: 900;
+    color:var(--color-red);
+    position: absolute;
+    top: 19%;
+    left: 18.8%;
+    border-top:solid black ;
+    
+}
+
+.hero-sub{
+    position: absolute;
+    top: 23%;
+    right: 23%;
+}
+.hero-sub-summer{
+    font-size: 65px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-weight: 900;
+    color:var(--color-blue);
+    position: absolute;
+    top: 14%;
+    right: 18%;
+    border-bottom:solid black ;
+
+}
+.Main-button{
+     font-family:Georgia, 'Times New Roman', Times, serif;
+}

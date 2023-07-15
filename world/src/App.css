@@ -1,0 +1,28 @@
+:root{
+    --color-blue:#2100f8;
+    --color-light-blue:#0D6EFD;
+    --color-red:#e00101;
+    --border-radius:25px;
+    --font-Bungee:'Bungee', cursive;
+
+
+
+
+}
+
+
+
+
+body{
+    background-color: var(--color-light-blue);
+   
+    
+
+
+
+
+
+
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
